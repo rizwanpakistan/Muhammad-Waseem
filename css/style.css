@@ -1,0 +1,294 @@
+.navbar-brand img {
+    height: 70px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgb(53, 189, 239);
+}
+
+.navbar-collapse a i {
+    margin-left: 8px;
+    font-size: 20px;
+}
+
+#headsec {
+    margin: auto;
+    padding: 30px 30px;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.navbar {
+    background-color: rgb(53, 189, 239);
+}
+
+#conbtn {
+    background-color: rgb(53, 189, 239);
+}
+
+#conbtn:hover {
+    background-color: rgb(2, 102, 138);
+    color: white;
+}
+
+.btn-danger:hover {
+    background-color: rgb(108, 3, 3);
+    color: white;
+}
+
+.btn-info {
+    box-shadow: 0 0 5px rgb(53, 189, 239);
+}
+
+.btn-danger {
+    box-shadow: 0 0 5px red;
+}
+
+.btn-info,
+.btn-danger {
+    font-weight: 500;
+    color: white;
+}
+
+#headsec h1 {
+    font-family: serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    margin-bottom: 10px;
+    font-style: italic;
+    font-size: 45px;
+}
+
+#headsec p {
+    color: white;
+    font-family: serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.divSize {
+    border-radius: 8px;
+    padding: 20px;
+    cursor: pointer;
+    transition-duration: 1.5s;
+    box-shadow: 0px 0px 6px rgb(53, 189, 239);
+}
+
+.divSize h3 {
+    font-family: serif;
+    font-weight: 700;
+}
+
+.divSize p {
+    font-family: sans-serif;
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.divSize:hover {
+    background-color: rgb(53, 189, 239);
+    box-shadow: 0px 0px 6px rgb(53, 189, 239);
+    color: white;
+}
+
+.fa-bug {
+    color: red;
+    font-size: 40px;
+    border-radius: 50%;
+    background-color: black;
+    padding: 10px;
+    margin-bottom: 10px;
+    transition-duration: 2.5s;
+}
+
+.fa-bug:hover {
+    font-size: 60px;
+}
+
+.fa-python {
+    color: rgb(213, 224, 55);
+    font-size: 40px;
+    background-color: black;
+    border-radius: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    transition-duration: 2.5s;
+}
+
+.fa-python:hover {
+    font-size: 60px;
+}
+
+.fa-chart-simple {
+    color: rgb(0, 255, 0);
+    font-size: 40px;
+    background-color: black;
+    border-radius: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    transition-duration: 2.5s;
+}
+
+.fa-chart-simple:hover {
+    font-size: 60px;
+}
+
+.fa-linux {
+    color: #d9ff00;
+    font-size: 40px;
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+    transition-duration: 2.5s;
+}
+
+.fa-linux:hover {
+    font-size: 60px;
+}
+
+.fa-database {
+    color: rgb(101, 101, 103);
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    transition-duration: 2.5s;
+}
+
+.fa-database:hover {
+    font-size: 60px;
+}
+
+.fa-globe {
+    color: rgb(18, 136, 239);
+    background-color: black;
+    border-radius: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    transition-duration: 2.5s;
+}
+
+.fa-globe:hover {
+    font-size: 60px;
+}
+
+.thumb img {
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(53, 189, 239);
+    box-shadow: 0 0 5px rgb(53, 189, 239);
+    border-radius: 8px;
+}
+
+.fa-user {
+    font-size: 20px;
+    margin-right: 8px;
+    color: #fff;
+    background-color: rgb(53, 189, 239);
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.fa-phone {
+    font-size: 20px;
+    background-color: rgb(53, 189, 239);
+    color: #fff;
+    border-radius: 50%;
+    padding: 10px;
+    margin-right: 8px;
+}
+
+.fa-envelope-open {
+    font-size: 20px;
+    background-color: rgb(53, 189, 239);
+    color: #fff;
+    border-radius: 50%;
+    padding: 8px;
+    margin-right: 10px;
+}
+
+.progressSpan {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.Resume_deatil p {
+    font-weight: 600;
+}
+
+.About p span {
+    font-size: 35px;
+    font-weight: 700;
+    color: rgb(53, 189, 239);
+}
+
+.About p {
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.fa-linkedin {
+    color: #1c546c;
+    font-size: 25px;
+}
+
+.fa-twitter {
+    color: #005da4;
+    font-size: 25px;
+}
+
+.fa-facebook {
+    color: #fafafa;
+    font-size: 25px;
+}
+
+.fa-instagram {
+    color: #b02810;
+    font-size: 25px;
+}
+
+.fa-github {
+    color: #181616;
+    font-size: 25px;
+}
+
+.fa-whatsapp {
+    font-size: 25px;
+    color: rgb(3, 95, 3);
+}
+
+.Icon p span {
+    padding-left: 15px;
+}
+
+.Icon h2 {
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    font-family: serif;
+}
+
+.footer {
+    background-color: rgb(53, 189, 239);
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.accordion-body {
+    font-size: 18px;
+    font-family: serif;
+}
+
+.accordion-button {
+    font-size: 22px;
+    font-weight: 600;
+    font-family: serif;
+}
